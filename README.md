@@ -4,7 +4,7 @@
 
 # albino 
 
-binaural beats in the terminal
+some pseudoscience bullshit in a cool gui. idk it was fun to make.
 
 
 ## what?

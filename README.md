@@ -11,6 +11,8 @@ binaural beats in the terminal
 
 albino is a go program that generates binaural beats to make you feel funny. idk, it's probably a bunch of weird pseudoscience stuff but if you turn it on and start working it makes your head spin sometimes. i don't think it works as well as a drug would, but this stuff was everywhere in the 90's so it was a fun and nostalgic project.
 
+
+![preview](https://user-images.githubusercontent.com/96031819/233870018-1f9a4f85-cde8-4fc3-9b21-733b986610ff.png)
 ## usage
 
 to play one, run it with the name of the preset you want to use as an argument. 
